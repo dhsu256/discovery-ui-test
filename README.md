@@ -1,4 +1,7 @@
 This project was built with node v10.15.0
+
+Sign Up results are outputted to console.log it will appear as Object.
+
 ## Available Scripts
 
 ### `npm install`
