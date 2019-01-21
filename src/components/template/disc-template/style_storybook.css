@@ -1,0 +1,10 @@
+.header,.main,.footer {
+    background-color: #666;
+    color:#fff;
+    height:100px;
+    text-align: center;
+    line-height: 100px;
+    margin-bottom: 30px;
+    font-family: Arial;
+    text-transform: uppercase;
+}

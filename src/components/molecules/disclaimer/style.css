@@ -1,0 +1,26 @@
+@import '../../_fonts/fonts.css';
+
+
+.disclaimer input[type=checkbox],
+.disclaimer input[type=checkbox] + label {
+    float:left;
+}
+
+.disclaimer input[type=checkbox] {
+    margin-left:10px;
+}
+
+.disclaimer input[type=checkbox] + label {
+    margin-left:5px;
+    width:80%;
+    text-align: left;
+}
+
+.disclaimer input[type=checkbox] + label,
+.disclaimer input[type=checkbox] + label a {
+    color: #888;
+    font-family: AzoSans-Light;
+    font-size: 11px;
+    line-height: 16px;
+    letter-spacing: .5px;
+}

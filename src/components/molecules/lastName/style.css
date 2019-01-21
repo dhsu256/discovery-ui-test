@@ -1,0 +1,9 @@
+.last-container {
+    position:relative;
+    width:48%;
+    float:right;
+}
+
+.show-error #lastName {
+    border: 1px solid #ED1F34;
+}

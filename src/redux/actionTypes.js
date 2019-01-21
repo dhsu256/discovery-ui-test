@@ -1,0 +1,10 @@
+export const SUBMIT_EMAIL = "SUBMIT_EMAIL";
+export const SUBMIT_NAME = "SUBMIT_NAME";
+export const SUBMIT_INITIAL = "SUBMIT_INITIAL";
+export const EMAIL_VALIDITY = "EMAIL_VALIDITY";
+export const FN_VALIDITY = "FN_VALIDITY";
+export const LN_VALIDITY = "LN_VALIDITY";
+export const STEP_INITIAL = "INITIAL";
+export const STEP_NAME = "NAME";
+export const SHOW_ERROR = "SHOW_ERROR";
+export const STEP_CONGRATULATION = "CONGRATULATION";

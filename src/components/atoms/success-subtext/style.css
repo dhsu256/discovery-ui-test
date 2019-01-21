@@ -1,0 +1,29 @@
+@import '../../_fonts/fonts.css';
+p.success-subtext {
+    color: #94AEBF;
+    font-family: AzoSans-Light;
+    font-size: 18px;
+    line-height: 23px;
+    margin:0;
+    padding: 0px 15%;
+}
+
+@media screen and (min-width:768px) {
+    p.success-subtext {
+        font-size: 20px;
+        line-height: 26px;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    p.success-subtext {
+        padding: 0px;
+    }
+}
+
+@media screen and (min-width:1445px) {
+    p.success-subtext {
+        font-size: 26px;
+        line-height: 35px;
+    }
+}

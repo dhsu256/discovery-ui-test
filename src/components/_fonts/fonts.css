@@ -1,0 +1,60 @@
+
+@font-face
+{
+	font-family:"AzoSans";
+	src: url("./Azo-Sans/Azo-Sans.eot");
+	src: url("./Azo-Sans/Azo-Sans.eot?#iefix") format("embedded-opentype"),
+	url("./Azo-Sans/Azo-Sans.woff") format("woff"),
+    url('./Azo-Sans/Azo-Sans.ttf') format('truetype'),
+    url('./Azo-Sans/Azo-Sans.svg') format('svg');
+}
+ 
+@font-face
+{
+	font-family:"AzoSans-Black";
+	src: url("./Azo-Sans-Black/Azo-Sans-Black.eot");
+	src: url("./Azo-Sans-Black/Azo-Sans-Black.eot?#iefix") format("embedded-opentype"),
+	url("./Azo-Sans-Black/Azo-Sans-Black.woff") format("woff"),
+    url('./Azo-Sans-Black/Azo-Sans-Black.ttf') format('truetype'),
+    url('./Azo-Sans-Black/Azo-Sans-Black.svg') format('svg');
+}
+
+@font-face
+{
+	font-family:"AzoSans-Bold";
+	src: url("./Azo-Sans-Bold/Azo-Sans-Bold.eot");
+	src: url("./Azo-Sans-Bold/Azo-Sans-Bold.eot?#iefix") format("embedded-opentype"),
+	url("./Azo-Sans-Bold/Azo-Sans-Bold.woff") format("woff"),
+    url('./Azo-Sans-Bold/Azo-Sans-Bold.ttf') format('truetype'),
+    url('./Azo-Sans-Bold/Azo-Sans-Bold.svg') format('svg');
+}
+
+@font-face
+{
+	font-family:"AzoSans-Light";
+	src: url("./Azo-Sans-Light/Azo-Sans-Light.eot");
+	src: url("./Azo-Sans-Light/Azo-Sans-Light.eot?#iefix") format("embedded-opentype"),
+	url("./Azo-Sans-Light/Azo-Sans-Light.woff") format("woff"),
+    url('./Azo-Sans-Light/Azo-Sans-Light.ttf') format('truetype'),
+    url('./Azo-Sans-Light/Azo-Sans-Light.svg') format('svg');
+}
+
+@font-face
+{
+	font-family:"AzoSans-Medium";
+	src: url("./Azo-Sans-Medium/Azo-Sans-Medium.eot");
+	src: url("./Azo-Sans-Medium/Azo-Sans-Medium.eot?#iefix") format("embedded-opentype"),
+	url("./Azo-Sans-Medium/Azo-Sans-Medium.woff") format("woff"),
+    url('./Azo-Sans-Medium/Azo-Sans-Medium.ttf') format('truetype'),
+    url('./Azo-Sans-Medium/Azo-Sans-Medium.svg') format('svg');
+}
+
+@font-face
+{
+	font-family:"Elaine_D02";
+	src: url("./Elaine_D02/Elaine_D02.eot");
+	src: url("./Elaine_D02/Elaine_D02.eot?#iefix") format("embedded-opentype"),
+	url("./Elaine_D02/Elaine_D02.woff") format("woff"),
+    url('./Elaine_D02/Elaine_D02.ttf') format('truetype'),
+    url('./Elaine_D02/Elaine_D02.svg') format('svg');
+}

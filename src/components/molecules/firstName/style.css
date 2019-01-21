@@ -1,0 +1,9 @@
+.first-container {
+    position:relative;
+    width:48%;
+    float:left;
+}
+
+.show-error #firstName {
+    border: 1px solid #ED1F34;
+}

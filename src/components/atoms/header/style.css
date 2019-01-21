@@ -1,0 +1,26 @@
+@import '../../_fonts/fonts.css';
+
+h1.discovery-header {
+    font-family: "Elaine_D02";
+    font-size: 36px;
+    line-height: 59px;
+    color: #B6FDBF;
+    font-weight: normal;
+    margin:0px;
+}
+
+@media screen and (min-width:1024px) {
+    h1.discovery-header {
+        font-size: 60px;
+        line-height: 60px;
+        white-space: nowrap;
+    }
+}
+
+
+@media screen and (min-width:1445px) {
+    h1.discovery-header {
+        font-size: 80px;
+        line-height: 131px;
+    }
+}

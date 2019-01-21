@@ -1,0 +1,6 @@
+.email-container {
+    position:relative;
+}
+.show-error #email {
+    border: 1px solid #ED1F34;
+}

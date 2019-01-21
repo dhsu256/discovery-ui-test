@@ -1,0 +1,40 @@
+@import '../../_fonts/fonts.css';
+
+h2.discovery-header-subtext {
+    font-family: "AzoSans-Bold";
+    font-size: 16px;
+    line-height: 20px;
+    color: #94AEBF;
+    font-weight: normal;
+    margin-bottom:15px;
+    text-transform: uppercase;
+}
+
+h2.discovery-header-subtext br {
+    display:block;
+}
+
+@media screen and (min-width:768px) {
+    h2.discovery-header-subtext {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    h2.discovery-header-subtext br {
+        display:none;
+    }    
+}
+
+@media screen and (min-width:1024px) {
+    h2.discovery-header-subtext {
+        font-size: 20px;
+        line-height: 30px;
+        white-space: nowrap;
+    }
+}
+@media screen and (min-width:1445px) {
+    h2.discovery-header-subtext {
+        font-size: 24px;
+        line-height: 30px;
+    }
+}
